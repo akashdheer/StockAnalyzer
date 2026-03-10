@@ -25,6 +25,7 @@ Goal: The final app must be simple enough that a complete beginner who can only 
 - PDF Export: reportlab or streamlit-pdf (pure Python)
 - Database (for watchlist): SQLite (simple file-based, no extra setup) or Supabase only if I say so later
 - Deployment: Streamlit Community Cloud (free)
+- Agents and Tools : Langgraph Libraries 
 - Additional libraries (only when needed): numpy, plotly, yfinance, pandas, reportlab, python-dotenv
 - NEVER use: FastAPI, Flask, Next.js, Tailwind, any frontend framework
 
